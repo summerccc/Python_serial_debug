@@ -2,7 +2,7 @@
 @ author: summer
 @ tools: pycharm 
 @ content: 实现串口通讯主类
-@ date: 2020.2.1
+@ date: 2020.2.12
 '''
 import tkinter
 from tkinter import ttk

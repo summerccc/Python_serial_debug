@@ -2,7 +2,7 @@
 @ author: summer
 @ tools: pycharm 
 @ content: 串口通讯实现类
-@ date: 2020.2.1
+@ date: 2020.2.12
 '''
 import serial
 import serial.tools.list_ports
