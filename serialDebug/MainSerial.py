@@ -6,7 +6,7 @@
 '''
 import tkinter
 from tkinter import ttk
-from 串口通讯.SerialClass import SerialAchieve   # 导入串口通讯类
+from SerialClass import SerialAchieve   # 导入串口通讯类
 
 class MainSerial:
     def __init__(self):
